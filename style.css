@@ -1,0 +1,32 @@
+body {
+    background-color: blue;
+    color: whitesmoke;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+input { background-color: rgb(2, 2, 224); 
+    border-style: none; 
+    font-size: 1.5em;
+    border-radius: 5px;
+    width: auto;
+}
+
+
+
+h1 { font-size: 3em; }
+
+p { font-size: 2em; }
+
+button { 
+    text-align: center;
+    background-color: transparent; 
+    margin-top: 30px;
+    margin-right: 48px;
+    border-style: solid;
+    border-color: white;
+}
+
+a { text-decoration: none; }
+
+span { font-size: 4em; font-style: bold; }
